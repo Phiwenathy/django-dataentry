@@ -1,1 +1,1 @@
-# django-dataentry
+# django-data-entry
